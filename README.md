@@ -8,7 +8,7 @@ Metasploit-Reborn Notes :
    <img src="https://raw.githubusercontent.com/blastlaboratory/Metasploit-Reborn/main/photo_2021-05-22_18-22-40.jpg" width=750px height=500px>
 </p>
 
-                                                            Hook Point 
+                                                      Hook Point 
 
 At Launchable Activity
 
